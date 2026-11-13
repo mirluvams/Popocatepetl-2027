@@ -49,7 +49,3 @@ Los resultados muestran un **buen desempeño en la clasificación multiclase**, 
 
 ---
 
-## Proyección
-
-Este trabajo sienta las bases para futuros **sistemas de alerta temprana basados en visión computacional**, aplicados al monitoreo volcánico en México.
-
